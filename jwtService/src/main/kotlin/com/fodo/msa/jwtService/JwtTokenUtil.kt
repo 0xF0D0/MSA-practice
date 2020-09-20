@@ -1,4 +1,4 @@
-package com.fodo.msa.userService
+package com.fodo.msa.jwtService
 
 import io.jsonwebtoken.Claims
 import io.jsonwebtoken.Jwts
